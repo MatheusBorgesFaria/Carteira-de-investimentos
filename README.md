@@ -1,2 +1,2 @@
 # Carteira-de-investimentos
-Esse repositório ajuda gerir uma carteira de inestimento
+Esse repositório ajuda gerir uma carteira de investimento.
